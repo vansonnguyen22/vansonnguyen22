@@ -12,6 +12,6 @@ Working toward becoming a **DevOps / System Engineer** 🚀
 - Containers: Docker 
 - CI/CD: GitHub Actions (learning)
 - Cloud: AWS (basic / learning)
-- Scripting: Bash
+- Scripting: Bash  
 ## 📂 Projects
 -->
